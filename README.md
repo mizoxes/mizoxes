@@ -2,4 +2,4 @@
 - 👀 I’m interested in Cryptography, Graphics and data compression
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything cool
-- 📫 How to reach me mizoxes@gmail.com
+- 📫 How to reach me { email: "mizoxes@gmail.com", discord: "mizoxes#6004" }
