@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizoxes&layout=compact&theme=tokyonight)
 
-[<img src="https://v2.speedtyper.dev/users/mizoxes/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/mizoxes)
+[<img src="https://data.typeracer.com/misc/badge?user=mizoxes" alt="typing speed">](https://data.typeracer.com/pit/profile?user=mizoxes)
