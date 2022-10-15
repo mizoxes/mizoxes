@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizoxes&layout=compact&theme=tokyonight)
 
-<!-- [<img src="https://data.typeracer.com/misc/badge?user=mizoxes" alt="typing speed">](https://data.typeracer.com/pit/profile?user=mizoxes) -->
+[<img src="https://data.typeracer.com/misc/badge?user=mizoxes" alt="typing speed">](https://data.typeracer.com/pit/profile?user=mizoxes)
